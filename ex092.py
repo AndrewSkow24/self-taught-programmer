@@ -1,0 +1,3 @@
+print(int("Принц"))
+
+# ValueError: invalid literal for int() with base 10: 'Принц'
